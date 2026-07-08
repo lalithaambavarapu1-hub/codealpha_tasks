@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Task-2"
+		},
+		{
+			"path": "../Task-4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Task-1"
+	}
+}
